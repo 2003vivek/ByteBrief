@@ -53,11 +53,7 @@ A few of the things you must know about ByteBrief:
 * Rest you need to explore yourself!!!!
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
-</p>
-
-<p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+  <img src = "https://www.suntec.ai/img/extractive-text-summarization.jpg" width=700>
 </p>
 
 ## Feedback
