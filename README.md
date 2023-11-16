@@ -30,6 +30,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Build Process](#build-process)
+- [Usage](#Usage)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
