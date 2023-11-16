@@ -44,17 +44,13 @@ If You are looking for a tool that can make your work easier in reading the anor
 
 ## Features
 
-A few of the things you can do with GitPoint:
+A few of the things you must know about ByteBrief:
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+* View Your Summary withing seconds.
+* user friendly
+* Time Saving
+* Interactive UI
+* Rest you need to explore yourself!!!!
 
 <p align="center">
   <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
