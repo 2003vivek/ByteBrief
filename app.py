@@ -3,7 +3,7 @@ import requests
 
 
 API_URL = "https://api-inference.huggingface.co/models/knkarthick/MEETING_SUMMARY"
-headers = {"Authorization": f"Bearer {'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'}"}
+headers = {"Authorization": f"Bearer {'YOUR_API_TOKEN_'}"}
 minL=50
 maxL=300
 
