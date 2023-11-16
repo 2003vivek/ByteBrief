@@ -39,7 +39,7 @@
 If You are looking for a tool that can make your work easier in reading the anormous pages and Getting the shorter summary of the text. Then this is the right tool for you.
 
 <p align="center">
-  <img src = "(https://i.ytimg.com/vi/pTHBZ6AyzOg/maxresdefault.jpg)" width=350>
+  <img src = "https://i.ytimg.com/vi/pTHBZ6AyzOg/maxresdefault.jpg" width=350>
 </p>
 
 ## Features
