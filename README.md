@@ -56,19 +56,9 @@ A few of the things you must know about ByteBrief:
   <img src = "https://www.suntec.ai/img/extractive-text-summarization.jpg" width=700>
 </p>
 
-## Feedback
-
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
-
-## Contributors
-
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
-
 ## Build Process
 
-- Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
+- Follow the [Hugging Face Transformer](https://huggingface.co/docs/api-inference/index) for getting started building a project with Hugging Face Transformer's API.
 - Clone or download the repo
 - `yarn` to install dependencies
 - `yarn run link` to link react-native dependencies
