@@ -65,10 +65,12 @@ A few of the things you must know about ByteBrief:
 
 ## Usage
  ``` bash
-pip install -r requirements ```
- ``` bash
-git clone https://github.com/2003vivek/ByteBrief ```
+pip install -r requirements 
+```
+``` bash
+git clone https://github.com/2003vivek/ByteBrief
+```
 ## Acknowledgments
 
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+Thanks to [HuggingFace](https://huggingface.co/knkarthick/MEETING_SUMMARY) for supporting me with a [free API of their Transformer](https://huggingface.co/knkarthick/MEETING_SUMMARY).
 
